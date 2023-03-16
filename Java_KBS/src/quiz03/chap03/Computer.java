@@ -1,4 +1,4 @@
-package chap03;
+package quiz03.chap03;
 
 public class Computer extends Product {
 
